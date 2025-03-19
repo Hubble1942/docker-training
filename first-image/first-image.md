@@ -16,6 +16,12 @@ docker images
 docker run --rm -it my-first-image bash
 ```
 
+Check `first-image.md` is copied into root
+
+```bash
+ls /
+```
+
 Check `nano` is installed
 
 ```bash
